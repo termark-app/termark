@@ -7,7 +7,7 @@
     <a href="https://www.termark.app/zh-cn/#download"><strong>下载 Termark</strong></a>
     · <a href="https://docs.termark.app/zh/">中文文档</a>
     · <a href="https://www.termark.app/">English website</a>
-    · <a href="https://github.com/dushixiang/termark/issues">问题反馈</a>
+    · <a href="https://github.com/dushixiang/termark/discussions">交流与反馈</a>
   </p>
 </div>
 
@@ -17,10 +17,10 @@
 
 Termark 面向需要经常连接和管理服务器的开发者、运维与独立开发者。它不只是一个终端窗口，而是围绕服务器资产组织日常远程工作：
 
-- **SSH 终端**：多标签、分屏、搜索、自动重连、命令片段、关键字高亮与会话回放。
+- **SSH 终端**：多标签、分屏、搜索、自动重连、命令片段和关键字高亮。
 - **资产管理**：管理 SSH、Telnet、串口、本地终端及 NextTerminal 资产，复用凭据、跳板机和代理配置。
 - **集成 SFTP**：双栏文件管理、文件夹传输、远程编辑和终端目录跟随，不必在终端与独立文件工具之间切换。
-- **端口转发与批量执行**：保存常用转发规则，在多台机器上执行命令并分别查看输出。
+- **端口转发与批量执行**：保存常用转发规则；PRO 可在多台机器上执行命令并分别查看输出。
 - **AI 助手**：读取当前终端上下文，解释错误、生成排查命令；会改变服务器状态的操作在执行前明确展示并等待确认。
 - **本地加密与同步**：敏感数据本地加密；可通过官方服务、WebDAV、S3、iCloud 或本地目录同步加密数据。
 - **桌面与移动端**：桌面端承担高频工作流，iOS 与 Android 可在电脑不在身边时查看状态、处理告警和完成临时操作。
@@ -54,7 +54,7 @@ Termark 面向需要经常连接和管理服务器的开发者、运维与独立
 
 ## 反馈与支持
 
-遇到可复现的问题时，请在 [GitHub Issues](https://github.com/dushixiang/termark/issues) 提交，并尽量附上：
+遇到可复现的问题时，请在 [GitHub Discussions](https://github.com/dushixiang/termark/discussions) 发帖，并尽量附上：
 
 - 操作系统与 Termark 版本
 - 问题发生前的操作步骤
@@ -68,5 +68,5 @@ Termark 面向需要经常连接和管理服务器的开发者、运维与独立
 <p align="center">
   <a href="https://www.termark.app/">Website</a> ·
   <a href="https://docs.termark.app/">Documentation</a> ·
-  <a href="https://github.com/dushixiang/termark/issues">Issues</a>
+  <a href="https://github.com/dushixiang/termark/discussions">Discussions</a>
 </p>
