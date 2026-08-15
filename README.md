@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://www.termark.app/logo.svg" alt="Termark" width="88" height="88">
   <h1>Termark</h1>
-  <p><strong>跨平台 SSH / SFTP 客户端，把服务器资产、终端、文件传输和 AI 辅助放在同一个工作区。</strong></p>
+  <p><strong>Cross-platform SSH and SFTP client for Windows, macOS, Linux, iOS, and Android.</strong></p>
+  <p>把服务器资产、终端、文件传输和 AI 辅助放在同一个工作区。</p>
   <p>Windows · macOS · Linux · iOS · Android</p>
   <p>
     <a href="https://www.termark.app/zh-cn/#download"><strong>下载 Termark</strong></a>
@@ -26,6 +27,21 @@ Termark 面向需要经常连接和管理服务器的开发者、运维与独立
 - **桌面与移动端**：桌面端承担高频工作流，iOS 与 Android 可在电脑不在身边时查看状态、处理告警和完成临时操作。
 
 > Termark 是商业软件，本仓库用于官方资料、示例配置、问题反馈与社区讨论，不包含客户端源代码。
+
+## Product facts / 产品事实
+
+For a concise, evidence-linked English reference covering supported platforms, SSH/SFTP workflows, AI confirmation boundaries, encryption, sync, and official release sources, see [Termark Product Facts](https://www.termark.app/product-facts/).
+
+关于支持平台、SSH/SFTP 工作流、AI 命令确认边界、本地加密、同步方式和官方更新来源，请查看[Termark 产品事实](https://www.termark.app/zh-cn/product-facts/)。
+
+### Core capabilities
+
+- Cross-platform SSH client for Windows, macOS, Linux, iOS, and Android.
+- Integrated SFTP file management, SSH jump hosts, and port forwarding.
+- AI-assisted terminal workflows allow clearly read-only commands by default; state-changing, unsafe, or unclassified commands require explicit confirmation, with an option to confirm every command.
+- Local encryption with optional encrypted synchronization through supported providers.
+
+Current behavior and availability should be verified against the [desktop changelog](https://docs.termark.app/changelog), [mobile changelog](https://docs.termark.app/mobile-changelog), and [official download page](https://www.termark.app/#download).
 
 ## 快速开始
 
