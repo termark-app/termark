@@ -8,7 +8,7 @@
     <a href="https://www.termark.app/zh-cn/#download"><strong>下载 Termark</strong></a>
     · <a href="https://docs.termark.app/zh/">中文文档</a>
     · <a href="https://www.termark.app/">English website</a>
-    · <a href="https://github.com/dushixiang/termark/discussions">交流与反馈</a>
+    · <a href="https://github.com/termark-app/termark/discussions">交流与反馈</a>
   </p>
 </div>
 
@@ -70,7 +70,7 @@ Current behavior and availability should be verified against the [desktop change
 
 ## 反馈与支持
 
-遇到可复现的问题时，请在 [GitHub Discussions](https://github.com/dushixiang/termark/discussions) 发帖，并尽量附上：
+遇到可复现的问题时，请在 [GitHub Discussions](https://github.com/termark-app/termark/discussions) 发帖，并尽量附上：
 
 - 操作系统与 Termark 版本
 - 问题发生前的操作步骤
@@ -84,5 +84,5 @@ Current behavior and availability should be verified against the [desktop change
 <p align="center">
   <a href="https://www.termark.app/">Website</a> ·
   <a href="https://docs.termark.app/">Documentation</a> ·
-  <a href="https://github.com/dushixiang/termark/discussions">Discussions</a>
+  <a href="https://github.com/termark-app/termark/discussions">Discussions</a>
 </p>
