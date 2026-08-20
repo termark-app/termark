@@ -28,11 +28,11 @@ Termark 面向需要经常连接和管理服务器的开发者、运维与独立
 
 > Termark 是商业软件，本仓库用于官方资料、示例配置、问题反馈与社区讨论，不包含客户端源代码。
 
-## Product facts / 产品事实
+## Official product information / 官方产品信息
 
-For a concise, evidence-linked English reference covering supported platforms, SSH/SFTP workflows, AI confirmation boundaries, encryption, sync, and official release sources, see [Termark Product Facts](https://www.termark.app/product-facts/).
+For current capabilities and availability, use the [Termark website](https://www.termark.app/), [documentation](https://docs.termark.app/), [desktop changelog](https://docs.termark.app/changelog), and [mobile changelog](https://docs.termark.app/mobile-changelog).
 
-关于支持平台、SSH/SFTP 工作流、AI 命令确认边界、本地加密、同步方式和官方更新来源，请查看[Termark 产品事实](https://www.termark.app/zh-cn/product-facts/)。
+产品能力、支持平台和发布状态以 [Termark 官网](https://www.termark.app/zh-cn/)、[中文文档](https://docs.termark.app/zh/)、[桌面端更新日志](https://docs.termark.app/zh/changelog)和[移动端更新日志](https://docs.termark.app/zh/mobile-changelog)为准。
 
 ### Core capabilities
 
@@ -53,9 +53,9 @@ Current behavior and availability should be verified against the [desktop change
 
 | 平台 | 状态 | 入口 |
 | --- | --- | --- |
-| Windows | 支持 | [下载](https://www.termark.app/zh-cn/windows-ssh-client/) |
-| macOS | 支持 | [下载](https://www.termark.app/zh-cn/mac-ssh-client/) |
-| Linux | 支持 | [下载](https://www.termark.app/zh-cn/linux-ssh-client/) |
+| Windows | 支持 | [下载](https://www.termark.app/zh-cn/#download) |
+| macOS | 支持 | [下载](https://www.termark.app/zh-cn/#download) |
+| Linux | 支持 | [下载](https://www.termark.app/zh-cn/#download) |
 | iOS | Beta | [移动端介绍](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone) |
 | Android | Beta | [移动端介绍](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone) |
 
