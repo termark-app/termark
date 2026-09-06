@@ -61,11 +61,16 @@ Current behavior and availability should be verified against the [desktop change
 
 ## 文档与资源
 
-- [Termark 中文文档](https://docs.termark.app/zh/)
-- [桌面端更新日志](https://docs.termark.app/zh/changelog)
-- [移动端更新日志](https://docs.termark.app/zh/mobile-changelog)
+- [Termark 中文文档](https://docs.termark.app/zh/) / [English docs](https://docs.termark.app/)
+- [桌面端更新日志](https://docs.termark.app/zh/changelog) / [Desktop changelog](https://docs.termark.app/changelog)
+- [移动端更新日志](https://docs.termark.app/zh/mobile-changelog) / [Mobile changelog](https://docs.termark.app/mobile-changelog)
 - [AI SSH 客户端设计](https://docs.termark.app/zh/blog/termark-ai-design)
-- [手机 SSH 使用场景](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone)
+- [手机 SSH 使用场景](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone) / [Can You SSH From a Phone?](https://docs.termark.app/blog/can-you-ssh-on-a-phone)
+- [Android SSH 客户端怎么选](https://docs.termark.app/zh/blog/android-ssh-client-guide) / [Android SSH Client Guide](https://docs.termark.app/blog/android-ssh-client-guide)
+- [iOS SSH 客户端怎么选](https://docs.termark.app/zh/blog/ios-ssh-client-guide) / [iOS SSH Client Guide](https://docs.termark.app/blog/ios-ssh-client-guide)
+- [SSH 客户端怎么选](https://docs.termark.app/zh/blog/ssh-client-recommendation) / [How to Choose an SSH Client](https://docs.termark.app/blog/ssh-client-recommendation)
+- [Best SSH Clients in 2026 Compared](https://docs.termark.app/blog/best-ssh-clients-2026)
+- [SSH 端口转发指南](https://docs.termark.app/zh/blog/ssh-port-forwarding-guide)
 - [终端关键字高亮规则示例](highlights/example-zh.json)
 
 ## 反馈与支持
