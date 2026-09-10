@@ -5,8 +5,8 @@
   <p>把服务器资产、终端、文件传输和 AI 辅助放在同一个工作区。</p>
   <p>Windows · macOS · Linux · iOS · Android</p>
   <p>
-    <a href="https://www.termark.app/zh-cn/#download"><strong>下载 Termark</strong></a>
-    · <a href="https://docs.termark.app/zh/">中文文档</a>
+    <a href="https://www.termark.app/zh/#download"><strong>下载 Termark</strong></a>
+    · <a href="https://www.termark.app/zh/docs/">中文文档</a>
     · <a href="https://www.termark.app/">English website</a>
     · <a href="https://github.com/termark-app/termark/discussions">交流与反馈</a>
   </p>
@@ -30,9 +30,9 @@ Termark 面向需要经常连接和管理服务器的开发者、运维与独立
 
 ## Official product information / 官方产品信息
 
-For current capabilities and availability, use the [Termark website](https://www.termark.app/), [documentation](https://docs.termark.app/), [desktop changelog](https://docs.termark.app/changelog), and [mobile changelog](https://docs.termark.app/mobile-changelog).
+For current capabilities and availability, use the [Termark website](https://www.termark.app/), [documentation](https://www.termark.app/docs/), [desktop changelog](https://www.termark.app/changelog), and [mobile changelog](https://www.termark.app/mobile-changelog).
 
-产品能力、支持平台和发布状态以 [Termark 官网](https://www.termark.app/zh-cn/)、[中文文档](https://docs.termark.app/zh/)、[桌面端更新日志](https://docs.termark.app/zh/changelog)和[移动端更新日志](https://docs.termark.app/zh/mobile-changelog)为准。
+产品能力、支持平台和发布状态以 [Termark 官网](https://www.termark.app/zh/)、[中文文档](https://www.termark.app/zh/docs/)、[桌面端更新日志](https://www.termark.app/zh/changelog)和[移动端更新日志](https://www.termark.app/zh/mobile-changelog)为准。
 
 ### Core capabilities
 
@@ -41,36 +41,36 @@ For current capabilities and availability, use the [Termark website](https://www
 - AI-assisted terminal workflows allow clearly read-only commands by default; state-changing, unsafe, or unclassified commands require explicit confirmation, with an option to confirm every command.
 - Local encryption with optional encrypted synchronization through supported providers.
 
-Current behavior and availability should be verified against the [desktop changelog](https://docs.termark.app/changelog), [mobile changelog](https://docs.termark.app/mobile-changelog), and [official download page](https://www.termark.app/#download).
+Current behavior and availability should be verified against the [desktop changelog](https://www.termark.app/changelog), [mobile changelog](https://www.termark.app/mobile-changelog), and [official download page](https://www.termark.app/#download).
 
 ## 快速开始
 
-1. 前往 [Termark 下载页](https://www.termark.app/zh-cn/#download)，选择对应平台。
+1. 前往 [Termark 下载页](https://www.termark.app/zh/#download)，选择对应平台。
 2. 安装并新建 SSH 资产，按需配置密码、私钥、代理或跳板机。
-3. 查阅 [Termark 中文文档](https://docs.termark.app/zh/) 了解 SFTP 目录跟随、本地加密、数据路径和常见问题。
+3. 查阅 [Termark 中文文档](https://www.termark.app/zh/docs/) 了解 SFTP 目录跟随、本地加密、数据路径和常见问题。
 
 ## 支持的平台
 
 | 平台 | 状态 | 入口 |
 | --- | --- | --- |
-| Windows | 支持 | [下载](https://www.termark.app/zh-cn/#download) |
-| macOS | 支持 | [下载](https://www.termark.app/zh-cn/#download) |
-| Linux | 支持 | [下载](https://www.termark.app/zh-cn/#download) |
-| iOS | Beta | [移动端介绍](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone) |
-| Android | Beta | [移动端介绍](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone) |
+| Windows | 支持 | [下载](https://www.termark.app/zh/#download) |
+| macOS | 支持 | [下载](https://www.termark.app/zh/#download) |
+| Linux | 支持 | [下载](https://www.termark.app/zh/#download) |
+| iOS | Beta | [移动端介绍](https://www.termark.app/zh/blog/can-you-ssh-on-a-phone) |
+| Android | Beta | [移动端介绍](https://www.termark.app/zh/blog/can-you-ssh-on-a-phone) |
 
 ## 文档与资源
 
-- [Termark 中文文档](https://docs.termark.app/zh/) / [English docs](https://docs.termark.app/)
-- [桌面端更新日志](https://docs.termark.app/zh/changelog) / [Desktop changelog](https://docs.termark.app/changelog)
-- [移动端更新日志](https://docs.termark.app/zh/mobile-changelog) / [Mobile changelog](https://docs.termark.app/mobile-changelog)
-- [AI SSH 客户端设计](https://docs.termark.app/zh/blog/termark-ai-design)
-- [手机 SSH 使用场景](https://docs.termark.app/zh/blog/can-you-ssh-on-a-phone) / [Can You SSH From a Phone?](https://docs.termark.app/blog/can-you-ssh-on-a-phone)
-- [Android SSH 客户端怎么选](https://docs.termark.app/zh/blog/android-ssh-client-guide) / [Android SSH Client Guide](https://docs.termark.app/blog/android-ssh-client-guide)
-- [iOS SSH 客户端怎么选](https://docs.termark.app/zh/blog/ios-ssh-client-guide) / [iOS SSH Client Guide](https://docs.termark.app/blog/ios-ssh-client-guide)
-- [SSH 客户端怎么选](https://docs.termark.app/zh/blog/ssh-client-recommendation) / [How to Choose an SSH Client](https://docs.termark.app/blog/ssh-client-recommendation)
-- [Best SSH Clients in 2026 Compared](https://docs.termark.app/blog/best-ssh-clients-2026)
-- [SSH 端口转发指南](https://docs.termark.app/zh/blog/ssh-port-forwarding-guide)
+- [Termark 中文文档](https://www.termark.app/zh/docs/) / [English docs](https://www.termark.app/docs/)
+- [桌面端更新日志](https://www.termark.app/zh/changelog) / [Desktop changelog](https://www.termark.app/changelog)
+- [移动端更新日志](https://www.termark.app/zh/mobile-changelog) / [Mobile changelog](https://www.termark.app/mobile-changelog)
+- [AI SSH 客户端设计](https://www.termark.app/zh/blog/termark-ai-design)
+- [手机 SSH 使用场景](https://www.termark.app/zh/blog/can-you-ssh-on-a-phone) / [Can You SSH From a Phone?](https://www.termark.app/blog/can-you-ssh-on-a-phone)
+- [Android SSH 客户端怎么选](https://www.termark.app/zh/blog/android-ssh-client-guide) / [Android SSH Client Guide](https://www.termark.app/blog/android-ssh-client-guide)
+- [iOS SSH 客户端怎么选](https://www.termark.app/zh/blog/ios-ssh-client-guide) / [iOS SSH Client Guide](https://www.termark.app/blog/ios-ssh-client-guide)
+- [SSH 客户端怎么选](https://www.termark.app/zh/blog/ssh-client-recommendation) / [How to Choose an SSH Client](https://www.termark.app/blog/ssh-client-recommendation)
+- [Best SSH Clients in 2026 Compared](https://www.termark.app/blog/best-ssh-clients-2026)
+- [SSH 端口转发指南](https://www.termark.app/zh/blog/ssh-port-forwarding-guide)
 - [终端关键字高亮规则示例](highlights/example-zh.json)
 
 ## 反馈与支持
@@ -88,6 +88,6 @@ Current behavior and availability should be verified against the [desktop change
 
 <p align="center">
   <a href="https://www.termark.app/">Website</a> ·
-  <a href="https://docs.termark.app/">Documentation</a> ·
+  <a href="https://www.termark.app/docs/">Documentation</a> ·
   <a href="https://github.com/termark-app/termark/discussions">Discussions</a>
 </p>
