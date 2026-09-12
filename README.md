@@ -9,6 +9,7 @@
     · <a href="https://www.termark.app/zh/docs/">中文文档</a>
     · <a href="https://www.termark.app/">English website</a>
     · <a href="https://github.com/termark-app/termark/discussions">交流与反馈</a>
+    · <a href="https://t.me/termark_app">Telegram</a>
   </p>
 </div>
 
@@ -83,6 +84,14 @@ Current behavior and availability should be verified against the [desktop change
 - 是否可以稳定复现
 
 请勿在公开 Issue 中上传密码、私钥、API Key、服务器公网地址或其他敏感信息。
+
+## 社群 / Community
+
+- **Telegram**：[t.me/termark_app](https://t.me/termark_app)
+- **微信群**：扫码加入（二维码会定期更换，如已过期请见 [官网](https://www.termark.app/)）
+- **WeChat group**: scan the QR code below (the code is refreshed periodically; if it has expired, see https://www.termark.app/)
+
+<img src="images/wechat-group.jpg" alt="Termark 微信交流群二维码" width="180">
 
 ---
 
