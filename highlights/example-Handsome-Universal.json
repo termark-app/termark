@@ -1,0 +1,152 @@
+[
+  {
+    "enabled": true,
+    "pattern": "\\b(?:error|failed|failure|fatal|denied|refused|exception|timeout|timed\\s+out|unreachable|not\\s+found|permission\\s+denied)\\b",
+    "note": "严重错误",
+    "color": "#D84A52"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:critical|panic|emergency|segfault|segmentation\\s+fault|out\\s+of\\s+memory|oom|kernel\\s+panic)\\b",
+    "note": "系统严重故障",
+    "color": "#D84A52"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:warn(?:ing)?|deprecated|retry(?:ing)?|caution|conflict|unstable)\\b",
+    "note": "警告信息",
+    "color": "#B47A18"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:stopped|inactive|disabled|dead|exited|killed|unhealthy)\\b",
+    "note": "异常退出",
+    "color": "#C16B35"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:success(?:ful(?:ly)?)?|succeeded|completed|passed|healthy|active|running|connected|listening|enabled|ready)\\b",
+    "note": "正常运行",
+    "color": "#278C55"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:\\d{1,3}\\.){3}\\d{1,3}\\b",
+    "note": "IPv4 地址",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:localhost|127\\.0\\.0\\.1|0\\.0\\.0\\.0)\\b",
+    "note": "本地地址",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:port\\s*[:=]?\\s*\\d{1,5}|tcp/\\d{1,5}|udp/\\d{1,5})\\b|:\\d{2,5}\\b",
+    "note": "端口标记",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:[0-9a-f]{2}:){5}[0-9a-f]{2}\\b",
+    "note": "MAC 地址",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:ssh|scp|sftp|rsync|curl|wget|ping|traceroute|tcpdump|telnet|nslookup|netstat|ifconfig)\\b",
+    "note": "SSH / 网络命令",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:HTTP/\\d(?:\\.\\d)?\\s+|status\\s*[:=]\\s*)2\\d{2}\\b",
+    "note": "HTTP 2xx",
+    "color": "#278C55"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:HTTP/\\d(?:\\.\\d)?\\s+|status\\s*[:=]\\s*)3\\d{2}\\b",
+    "note": "HTTP 3xx",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:HTTP/\\d(?:\\.\\d)?\\s+|status\\s*[:=]\\s*)4\\d{2}\\b",
+    "note": "HTTP 4xx",
+    "color": "#B47A18"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:HTTP/\\d(?:\\.\\d)?\\s+|status\\s*[:=]\\s*)5\\d{2}\\b",
+    "note": "HTTP 5xx",
+    "color": "#D84A52"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:GET|POST|PUT|PATCH|DELETE|HEAD|OPTIONS)\\b",
+    "note": "HTTP 方法",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:sudo|su|chmod|chown|systemctl|journalctl|service|kill|pkill|reboot|shutdown|mount|umount)\\b",
+    "note": "系统管理命令",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:git|clone|pull|push|fetch|commit|checkout|merge|rebase|stash)\\b",
+    "note": "Git 命令",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:docker|podman|kubectl|compose|container|kubernetes)\\b",
+    "note": "Docker / K8s",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:apt|apt-get|yum|dnf|brew|npm|pnpm|yarn|pip|pip3)\\b",
+    "note": "包管理命令",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:mysql|psql|redis-cli|mongosh|sqlplus)\\b",
+    "note": "数据库命令",
+    "color": "#9160BA"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b[A-Za-z0-9_.-]+\\.(?:sh|conf|log|json|yaml|yml|service|env|pem|key|sql|py|js|ts)\\b",
+    "note": "常见文件名",
+    "color": "#A36D2C"
+  },
+  {
+    "enabled": true,
+    "pattern": "(?:~?/|\\./|\\.\\./)[A-Za-z0-9_./-]+",
+    "note": "Unix 路径",
+    "color": "#A36D2C"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b\\d+(?:\\.\\d+)?\\s?(?:ms|MB|GB|TB|KiB|MiB|GiB|%)\\b",
+    "note": "性能与容量",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\bINFO\\b",
+    "note": "日志 INFO",
+    "color": "#397BC6"
+  },
+  {
+    "enabled": true,
+    "pattern": "\\b(?:DEBUG|TRACE)\\b",
+    "note": "日志 DEBUG / TRACE",
+    "color": "#777F89"
+  }
+]
