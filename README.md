@@ -104,10 +104,7 @@ brew install --cask termark-app/tap/termark
 ## 社群 / Community
 
 - **Telegram**：[t.me/termark_app](https://t.me/termark_app)
-- **微信群**：扫码加入（二维码会定期更换，如已过期请见 [官网](https://www.termark.app/)）
-- **WeChat group**: scan the QR code below (the code is refreshed periodically; if it has expired, see https://www.termark.app/)
-
-<img src="images/wechat-group.jpg" alt="Termark 微信交流群二维码" width="180">
+- 微信群：见 [官网](https://www.termark.app/)（二维码会定期更换，不在仓库内维护）
 
 ---
 
